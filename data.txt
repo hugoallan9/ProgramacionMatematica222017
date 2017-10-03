@@ -1,0 +1,1 @@
+{"fruteria": [{"NombreFruta": "Pera", "Cantidad": 4}, {"NombreFruta": "Manzana", "Cantidad": 15}, {"NombreFruta": "Aguacate", "Cantidad": 15}]}
