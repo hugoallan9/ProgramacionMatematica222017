@@ -30,6 +30,7 @@ with open('fruteria.json','r') as entrada:
     d = json.load(entrada)
     print(d["Fruteria"][1]['NombreFruta'])
     
+    
    
  
     
