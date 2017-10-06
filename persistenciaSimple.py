@@ -55,3 +55,14 @@ adriana.asignarTiempo("1:30")
 archivo = open("jugadores.mat", "w")
 pickle.dump(adriana, archivo,1)
 archivo.close()
+
+#Abriendo archivo donde se encuentra guardado el objeto
+fichero = open('jugadores.mat', 'r')
+adri = pickle.load(fichero)
+print adri.nombre
+adri.asignarPunteo(190)
+print adri.punteo
+
+
+
+
