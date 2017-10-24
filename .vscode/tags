@@ -1,0 +1,154 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Aplicacion	../ventaHolaMundo.py	/^class Aplicacion():$/;"	kind:class	line:3
+ENTRY_WIDTH	../gui_mejorada.py	/^ENTRY_WIDTH = max_width + 3             # adjust per taste of alignment$/;"	kind:variable	line:101
+Escritor	../creadorPagina.py	/^class Escritor():$/;"	kind:class	line:7
+Jugador	../persistenciaSimple.py	/^class Jugador():$/;"	kind:class	line:7
+Menu	../ejemploMenu.py	/^from tkinter import Menu$/;"	kind:namespace	line:2
+Menu	../gui_mejorada.py	/^from tkinter import Menu$/;"	kind:namespace	line:14
+Persona	../ejemploHerencia.py	/^class Persona():$/;"	kind:class	line:3
+Persona	../encapsulamiento.py	/^class Persona():$/;"	kind:class	line:3
+Registrador	../ejemploHerencia.py	/^class Registrador(Persona):$/;"	kind:class	line:17
+__init__	../ejemploHerencia.py	/^    def __init__(self, cui, estadoCivil):$/;"	kind:member	line:7
+__init__	../ejemploHerencia.py	/^    def __init__(self, cui, noEmpleado, position, fechaAlta):$/;"	kind:member	line:22
+__init__	../encapsulamiento.py	/^    def __init__(self, edad,dpi):    $/;"	kind:member	line:14
+__init__	../persistenciaSimple.py	/^    def __init__(self,nombre):$/;"	kind:member	line:9
+__init__	../ventaHolaMundo.py	/^    def __init__(self,master):$/;"	kind:member	line:5
+_quit	../gui_mejorada.py	/^def _quit():$/;"	kind:function	line:23
+adri	../persistenciaSimple.py	/^adri = pickle.load(fichero)$/;"	kind:variable	line:61
+adriana	../persistenciaSimple.py	/^adriana = Jugador("Adriana")$/;"	kind:variable	line:51
+altura	../encapsulamiento.py	/^    altura = 1.25$/;"	kind:variable	line:5
+app	../ventaHolaMundo.py	/^app = Aplicacion(root)$/;"	kind:variable	line:39
+archivo	../creadorPagina.py	/^archivo = escritor.crearFichero('\/mnt\/datos\/GitHub\/ProgramacionMatematica222017\/documento.tex')$/;"	kind:variable	line:33
+archivo	../persistenciaSimple.py	/^archivo = open("jugadores.mat", "w")$/;"	kind:variable	line:55
+asignarPunteo	../persistenciaSimple.py	/^    def asignarPunteo(self,punteo):$/;"	kind:member	line:16
+asignarTiempo	../persistenciaSimple.py	/^    def asignarTiempo(self,tiempo):$/;"	kind:member	line:19
+barraMenu	../ejemploMenu.py	/^barraMenu = Menu()$/;"	kind:variable	line:13
+cadena.py	../cadena.py	1;"	kind:file	line:1
+callBack	../ventaHolaMundo.py	/^    def callBack(self):$/;"	kind:member	line:33
+cerrarDocumentoLatex	../creadorPagina.py	/^    def cerrarDocumentoLatex(self, fichero):$/;"	kind:member	line:24
+cerrarFichero	../creadorPagina.py	/^    def cerrarFichero(self, fichero):$/;"	kind:member	line:17
+column_label	../ejemploMenu.py	/^from ixion import column_label$/;"	kind:namespace	line:4
+comidaSeleccionada	../gui_mejorada.py	/^comidaSeleccionada = ttk.Combobox(primerframe, width=12, textvariable=texto)$/;"	kind:variable	line:87
+compilarLatex	../creadorPagina.py	/^    def compilarLatex(self, fichero):$/;"	kind:member	line:27
+convertidorFaC	../convertidorTemperaturas.py	/^def convertidorFaC(temperaturaF):$/;"	kind:function	line:7
+convertidorTemperaturas.py	../convertidorTemperaturas.py	1;"	kind:file	line:1
+creadorPagina.py	../creadorPagina.py	1;"	kind:file	line:1
+crearCabecerLatex	../creadorPagina.py	/^    def crearCabecerLatex(self, fichero):$/;"	kind:member	line:20
+crearFichero	../creadorPagina.py	/^    def crearFichero(self,ruta):$/;"	kind:member	line:9
+cui	../ejemploHerencia.py	/^    cui = 0$/;"	kind:variable	line:4
+d	../ejemploJson.py	/^    d = json.load(json_data)$/;"	kind:variable	line:27
+d	../ejemploJsonPython.py	/^    d = json.load(entrada)$/;"	kind:variable	line:30
+datos	../ejemploJson.py	/^datos = {}$/;"	kind:variable	line:3
+datos	../ejemploJsonPython.py	/^datos = {}$/;"	kind:variable	line:3
+division	../convertidorTemperaturas.py	/^from __future__ import division$/;"	kind:namespace	line:2
+editMenu	../gui_mejorada.py	/^editMenu = Menu(menuBar, tearoff = 0)$/;"	kind:variable	line:55
+ejemploFW.py	../ejemploFW.py	1;"	kind:file	line:1
+ejemploGUI.py	../ejemploGUI.py	1;"	kind:file	line:1
+ejemploHerencia.py	../ejemploHerencia.py	1;"	kind:file	line:1
+ejemploJson.py	../ejemploJson.py	1;"	kind:file	line:1
+ejemploJsonPython.py	../ejemploJsonPython.py	1;"	kind:file	line:1
+ejemploMenu.py	../ejemploMenu.py	1;"	kind:file	line:1
+ejemploOrdenamiento.py	../ejemploOrdenamiento.py	1;"	kind:file	line:1
+encapsulamiento.py	../encapsulamiento.py	1;"	kind:file	line:1
+escribirLinea	../creadorPagina.py	/^    def escribirLinea(self,fichero,linea):$/;"	kind:member	line:13
+escritor	../creadorPagina.py	/^escritor = Escritor()$/;"	kind:variable	line:32
+estadoCivil	../ejemploHerencia.py	/^    estadoCivil = 'Soltero'$/;"	kind:variable	line:5
+fechaAlta	../ejemploHerencia.py	/^    fechaAlta = 0$/;"	kind:variable	line:20
+fichero	../persistenciaSimple.py	/^fichero = open('jugadores.mat', 'r')$/;"	kind:variable	line:60
+fileMenu	../ejemploMenu.py	/^fileMenu = Menu(barraMenu, tearoff=0)$/;"	kind:variable	line:17
+fileMenu	../gui_mejorada.py	/^fileMenu = Menu(menuBar, tearoff=0)$/;"	kind:variable	line:44
+getDimensions	../ejemploGUI.py	/^def getDimensions():$/;"	kind:function	line:13
+getDpi	../encapsulamiento.py	/^    def getDpi(self):$/;"	kind:member	line:18
+guardarPartida	../persistenciaSimple.py	/^def guardarPartida(archivoSalida,datos):$/;"	kind:function	line:25
+gui_mejorada.py	../gui_mejorada.py	1;"	kind:file	line:1
+helpMenu	../gui_mejorada.py	/^helpMenu = Menu(menuBar, tearoff=0)$/;"	kind:variable	line:51
+increaseSize	../ejemploGUI.py	/^def increaseSize():$/;"	kind:function	line:19
+inicio	../ordenamiento.py	/^inicio = time.time()$/;"	kind:variable	line:32
+insertionSort	../ordenamiento.py	/^def insertionSort(lista):$/;"	kind:function	line:21
+json	../ejemploJson.py	/^import json$/;"	kind:namespace	line:1
+json	../ejemploJsonPython.py	/^import json$/;"	kind:namespace	line:1
+label	../gui_mejorada.py	/^from _snack import label$/;"	kind:namespace	line:17
+leerNumero	../problema8.py	/^def leerNumero(ruta):$/;"	kind:function	line:4
+limpiarCadena	../problema8.py	/^def limpiarCadena(cadena):$/;"	kind:function	line:11
+listarPares	../ejemploFW.py	/^def listarPares(ultimo):$/;"	kind:function	line:3
+listarPares2	../ejemploFW.py	/^def listarPares2(ultimo):$/;"	kind:function	line:7
+maquina	../cadena.py	/^maquina = 'Maquina 75'$/;"	kind:variable	line:3
+max_width	../gui_mejorada.py	/^max_width  = max([len(x)for x in comidaSeleccionada['values']])$/;"	kind:variable	line:94
+menuBar	../gui_mejorada.py	/^menuBar = Menu()$/;"	kind:variable	line:40
+merge	../merge_sort.py	/^def merge(lista,l,m,r):$/;"	kind:function	line:6
+mergeSort	../merge_sort.py	/^def mergeSort(lista,l,r):$/;"	kind:function	line:47
+mergeSort.py	../mergeSort.py	1;"	kind:file	line:1
+merge_sort.py	../merge_sort.py	1;"	kind:file	line:1
+multipicarDigitosCadena	../problema8.py	/^def multipicarDigitosCadena(cadena):$/;"	kind:function	line:21
+nacer	../ejemploHerencia.py	/^    def nacer(self, cui):$/;"	kind:member	line:13
+new_width	../gui_mejorada.py	/^new_width = max_width$/;"	kind:variable	line:95
+numero	../cadena.py	/^numero = 12$/;"	kind:variable	line:12
+numero	../cadena.py	/^numero = 132135135103213$/;"	kind:variable	line:17
+numero	../ordenamientoBurbuja.py	/^numero = random.sample(range(10000000), 10000)$/;"	kind:variable	line:34
+numero	../problema8.py	/^numero = leerNumero('\/mnt\/datos\/GitHub\/ProgramacionMatematica222017\/numero.txt')$/;"	kind:variable	line:44
+numero.py	../numero.py	1;"	kind:file	line:1
+numeroEmpleado	../ejemploHerencia.py	/^    numeroEmpleado = 0$/;"	kind:variable	line:18
+numeros	../ejemploOrdenamiento.py	/^numeros =  random.sample(xrange(100000000),10000000)$/;"	kind:variable	line:6
+numeros	../ordenamiento.py	/^numeros = random.sample(range(1000000),10)$/;"	kind:variable	line:18
+numerosOrdenados	../ordenamiento.py	/^numerosOrdenados = insertionSort(numeros)$/;"	kind:variable	line:33
+opciones	../ejemploMenu.py	/^opciones = ttk.Combobox(ventana, width=12,textvariable = texto)$/;"	kind:variable	line:28
+ordenamiento.py	../ordenamiento.py	1;"	kind:file	line:1
+ordenamientoBurbuja	../ordenamientoBurbuja.py	/^def ordenamientoBurbuja(lista):$/;"	kind:function	line:6
+ordenamientoBurbuja.py	../ordenamientoBurbuja.py	1;"	kind:file	line:1
+ordenamientoBurbuja1	../ordenamientoBurbuja.py	/^def ordenamientoBurbuja1(lista):$/;"	kind:function	line:17
+ordenamientoBurbujaMejorado	../ordenamientoBurbuja.py	/^def ordenamientoBurbujaMejorado(lista):$/;"	kind:function	line:25
+os	../creadorPagina.py	/^import os$/;"	kind:namespace	line:2
+overload	../gui_mejorada.py	/^from typing import overload$/;"	kind:namespace	line:16
+persistenciaSimple.py	../persistenciaSimple.py	1;"	kind:file	line:1
+personaRegistrada	../ejemploHerencia.py	/^personaRegistrada = registrador1.registar("2530 05151 0101")$/;"	kind:variable	line:34
+pickle	../persistenciaSimple.py	/^    import cPickle as pickle$/;"	kind:namespace	line:2
+pickle	../persistenciaSimple.py	/^    import pickle$/;"	kind:namespace	line:4
+primerframe	../gui_mejorada.py	/^primerframe = ttk.LabelFrame(tab1, text=' Primer Frame ')$/;"	kind:variable	line:75
+problema8.py	../problema8.py	1;"	kind:file	line:1
+programa1.py	../programa1.py	1;"	kind:file	line:1
+puesto	../ejemploHerencia.py	/^    puesto = "normal"$/;"	kind:variable	line:19
+random	../ejemploOrdenamiento.py	/^import random$/;"	kind:namespace	line:2
+random	../ordenamiento.py	/^import random$/;"	kind:namespace	line:2
+random	../ordenamientoBurbuja.py	/^import random$/;"	kind:namespace	line:3
+recuperarPartida	../persistenciaSimple.py	/^def recuperarPartida(archivoEntrada):$/;"	kind:function	line:34
+registar	../ejemploHerencia.py	/^    def registar(self, cui):$/;"	kind:member	line:29
+registrador1	../ejemploHerencia.py	/^registrador1 = Registrador("2521 01156 0101",1,"Jefe", "12-08-2017")$/;"	kind:variable	line:33
+resolverProblema	../problema8.py	/^def resolverProblema():$/;"	kind:function	line:31
+root	../ventaHolaMundo.py	/^root = tk.Tk()$/;"	kind:variable	line:38
+saludar	../ventaHolaMundo.py	/^    def saludar(self):$/;"	kind:member	line:28
+selectionSort	../ordenamiento.py	/^def selectionSort(lista):$/;"	kind:function	line:6
+subprocess	../creadorPagina.py	/^import subprocess$/;"	kind:namespace	line:3
+t10	../ordenamientoBurbuja.py	/^t10 = time.time()$/;"	kind:variable	line:36
+t11	../ordenamientoBurbuja.py	/^t11 = time.time()$/;"	kind:variable	line:38
+t20	../ordenamientoBurbuja.py	/^t20 = time.time()$/;"	kind:variable	line:40
+t21	../ordenamientoBurbuja.py	/^t21 = time.time()$/;"	kind:variable	line:42
+t30	../ordenamientoBurbuja.py	/^t30 = time.time()$/;"	kind:variable	line:44
+t31	../ordenamientoBurbuja.py	/^t31 = time.time()$/;"	kind:variable	line:46
+tab1	../gui_mejorada.py	/^tab1 = ttk.Frame(tabControl)            # Create a tab $/;"	kind:variable	line:64
+tab2	../gui_mejorada.py	/^tab2 = ttk.Frame(tabControl)            # Add a second tab$/;"	kind:variable	line:67
+tabControl	../gui_mejorada.py	/^tabControl = ttk.Notebook(ventana)          # Create Tab Control$/;"	kind:variable	line:62
+texto	../ejemploMenu.py	/^texto = tk.StringVar()$/;"	kind:variable	line:26
+texto	../gui_mejorada.py	/^texto = tk.StringVar()$/;"	kind:variable	line:86
+tiempoFin	../ejemploOrdenamiento.py	/^tiempoFin = time.time()$/;"	kind:variable	line:8
+tiempoInicio	../ejemploOrdenamiento.py	/^tiempoInicio = time.time()$/;"	kind:variable	line:5
+time	../ejemploOrdenamiento.py	/^import time$/;"	kind:namespace	line:3
+time	../ordenamiento.py	/^import time$/;"	kind:namespace	line:3
+time	../ordenamientoBurbuja.py	/^import time$/;"	kind:namespace	line:4
+time	../problema8.py	/^import time$/;"	kind:namespace	line:2
+tk	../ejemploGUI.py	/^import tkinter as tk$/;"	kind:namespace	line:3
+tk	../ejemploMenu.py	/^import tkinter as tk$/;"	kind:namespace	line:1
+tk	../gui_mejorada.py	/^import tkinter as tk$/;"	kind:namespace	line:13
+tk	../ventaHolaMundo.py	/^import Tkinter as tk$/;"	kind:namespace	line:1
+ttk	../ejemploMenu.py	/^from tkinter import ttk$/;"	kind:namespace	line:3
+ttk	../gui_mejorada.py	/^from tkinter import ttk$/;"	kind:namespace	line:15
+updated	../gui_mejorada.py	/^updated = tk.StringVar()$/;"	kind:variable	line:106
+updatedEntry	../gui_mejorada.py	/^updatedEntry = ttk.Entry(primerframe, width=ENTRY_WIDTH, textvariable=updated, state='readonly')$/;"	kind:variable	line:107
+ventaHolaMundo.py	../ventaHolaMundo.py	1;"	kind:file	line:1
+ventana	../ejemploGUI.py	/^ventana = tk.Tk()$/;"	kind:variable	line:5
+ventana	../ejemploMenu.py	/^ventana = tk.Tk()$/;"	kind:variable	line:6
+ventana	../gui_mejorada.py	/^ventana = tk.Tk()   $/;"	kind:variable	line:32
